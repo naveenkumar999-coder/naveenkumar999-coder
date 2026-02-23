@@ -48,6 +48,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumar999-coder&show_icons=true&locale=en" alt="naveenkumar999-coder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar999-coder&" alt="naveenkumar999-coder" /></p>
 
 ###
